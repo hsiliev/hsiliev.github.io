@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-size: 24px;
 }
 
-#hero .php-email-form .validate {
+/* #hero .php-email-form .validate {
   display: none;
   color: red;
   margin: 0 0 15px 0;
@@ -270,8 +270,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   height: 40px;
   margin: 0 8px;
 }
+ */
 
-#hero .php-email-form button[type="submit"] {
+#hero button[type="button"] {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -286,7 +287,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   background: #fd680e;
 }
 
-#hero .php-email-form button[type="submit"]:hover {
+#hero button[type="button"]:hover {
   background: #fd8841;
 }
 
