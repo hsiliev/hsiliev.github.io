@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100.00065"
+   viewBox="-18 -10 100 100.00065"
+   class="css-1j8o68f"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.4553073"
+     inkscape:cx="178.88777"
+     inkscape:cy="54.990596"
+     inkscape:window-width="3840"
+     inkscape:window-height="2092"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="SvgjsDefs22582">
+    <linearGradient
+       id="SvgjsLinearGradient22587">
+      <stop
+         id="SvgjsStop22588"
+         stop-color="#ef4136"
+         offset="0" />
+      <stop
+         id="SvgjsStop22589"
+         stop-color="#fbb040"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SvgjsLinearGradient22587"
+       id="linearGradient120"
+       gradientTransform="scale(0.99999676)"
+       x1="5.0001886"
+       y1="4.9960832"
+       x2="94.999732"
+       y2="4.9960832"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SvgjsLinearGradient22587"
+       id="linearGradient122"
+       gradientTransform="scale(0.99999676)"
+       x1="5.0001886"
+       y1="4.9960832"
+       x2="94.999732"
+       y2="4.9960832"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="SvgjsG22583"
+     featurekey="PG4fjM-0"
+     transform="matrix(1.1111203,0,0,1.1111203,-23.555794,-15.551268)"
+     fill="url(#SvgjsLinearGradient22587)"
+     style="fill:url(#linearGradient122)">
+    <path
+       d="m 10,79.48 c 4.881,6.329 14.422,-12.996 21.812,-9.954 4.399,1.811 0.31,12.942 5.05,13.349 6.082,0.522 3.218,-16.232 9.306,-15.775 9.971,0.748 1.366,29.529 11.219,27.823 10.01,-1.732 -7.912,-26.03 1.233,-30.443 6.828,-3.296 12.174,17.789 18.368,13.417 5.54,-3.911 -10.04,-14.203 -5.806,-19.5 4.883,-6.109 20.3,8.763 23.405,1.584 4.04,-9.343 -22.946,-10.629 -22.36,-20.789 0.461,-8.02 16.798,-6.676 19.408,-14.271 1.59,-4.628 0.579,-12.36 -3.983,-14.13 C 78.019,7.05 70.824,31.162 61.307,27.133 54.358,24.191 64.004,5.681 56.487,5.013 c -7.559,-0.671 -1.426,18.849 -8.691,21.04 -4.351,1.312 -7.331,-9.828 -11.303,-7.622 -3.472,1.928 3.743,9.709 0.435,11.907 -7.382,4.905 -18.835,-18.305 -24.12,-11.19 -5.518,7.427 20.719,11.762 18.455,20.733 -2.278,9.03 -27.12,0.284 -26.24,9.551 0.828,8.761 22.939,-4 26.06,4.225 3.941,10.386 -27.866,17.02 -21.08,25.812"
+       id="path6"
+       style="fill:url(#linearGradient120)" />
+  </g>
+</svg>
